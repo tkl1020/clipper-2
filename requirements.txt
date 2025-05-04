@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+whisper==1.1.10
+moviepy==1.0.3
+torch>=2.0.0
+transformers>=4.28.0
+pydub==0.25.1
+psutil==5.9.5
+numpy>=1.20.0
